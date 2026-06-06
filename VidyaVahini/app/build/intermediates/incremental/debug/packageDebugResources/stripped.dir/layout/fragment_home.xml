@@ -1,0 +1,14 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="20dp">
+        <TextView android:id="@+id/greetingText" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Good morning" android:textSize="26sp" android:textStyle="bold" />
+        <TextView android:id="@+id/statusText" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Route status loads here" android:textSize="16sp" android:layout_marginTop="8dp" />
+        <GridLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:columnCount="2" android:layout_marginTop="20dp">
+            <com.google.android.material.button.MaterialButton android:id="@+id/routesButton" android:layout_width="0dp" android:layout_height="96dp" android:layout_columnWeight="1" android:layout_margin="6dp" android:text="Select Route" />
+            <com.google.android.material.button.MaterialButton android:id="@+id/trackButton" android:layout_width="0dp" android:layout_height="96dp" android:layout_columnWeight="1" android:layout_margin="6dp" android:text="Live Tracking" />
+            <com.google.android.material.button.MaterialButton android:id="@+id/notifyButton" android:layout_width="0dp" android:layout_height="96dp" android:layout_columnWeight="1" android:layout_margin="6dp" android:text="Notifications" />
+            <com.google.android.material.button.MaterialButton android:id="@+id/emergencyButton" android:layout_width="0dp" android:layout_height="96dp" android:layout_columnWeight="1" android:layout_margin="6dp" android:text="Emergency" />
+        </GridLayout>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Latest crowd reports" android:textStyle="bold" android:textSize="18sp" android:layout_marginTop="24dp" />
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/reportList" android:layout_width="match_parent" android:layout_height="wrap_content" android:nestedScrollingEnabled="false" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,11 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+    <fragment android:id="@+id/mapFragment" android:name="com.google.android.gms.maps.SupportMapFragment" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" />
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="16dp">
+        <TextView android:id="@+id/etaText" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="AI ETA: calculating..." android:textSize="18sp" android:textStyle="bold" />
+        <TextView android:id="@+id/locationText" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Latest bus location" android:layout_marginTop="6dp" />
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_marginTop="12dp">
+            <com.google.android.material.button.MaterialButton android:id="@+id/pingButton" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:text="Send Ping" />
+            <com.google.android.material.button.MaterialButton android:id="@+id/safeButton" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:layout_marginStart="8dp" android:text="Safe Reach" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

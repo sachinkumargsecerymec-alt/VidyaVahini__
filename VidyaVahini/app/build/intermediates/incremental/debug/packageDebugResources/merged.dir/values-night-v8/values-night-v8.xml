@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.VidyaVahini" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#8FD6A8</item>
+        <item name="colorPrimaryVariant">#256D49</item>
+        <item name="colorSecondary">#F2B705</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="materialButtonStyle">@style/Widget.VidyaVahini.Button</item>
+    </style>
+    <style name="Widget.VidyaVahini.Button" parent="Widget.MaterialComponents.Button">
+        <item name="cornerRadius">8dp</item>
+    </style>
+</resources>

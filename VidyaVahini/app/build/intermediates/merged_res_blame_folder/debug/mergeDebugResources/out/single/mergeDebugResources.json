@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.vidyavahini.app-debug-62:/layout_fragment_emergency.xml.flat",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_emergency.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-debug-62:/layout_fragment_home.xml.flat",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-debug-62:/layout_fragment_splash.xml.flat",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-debug-62:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.vidyavahini.app-main-64:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-debug-62:/layout_fragment_routes.xml.flat",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_routes.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-debug-62:/layout_fragment_tracking.xml.flat",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_tracking.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-debug-62:/xml_network_security_config.xml.flat",
+        "source": "com.vidyavahini.app-main-64:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-debug-62:/layout_fragment_login.xml.flat",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-debug-62:/layout_item_title_subtitle.xml.flat",
+        "source": "com.vidyavahini.app-main-64:/layout/item_title_subtitle.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-debug-62:/layout_fragment_profile.xml.flat",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-debug-62:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.vidyavahini.app-main-64:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-debug-62:/layout_fragment_assistant.xml.flat",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_assistant.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-debug-62:/layout_activity_main.xml.flat",
+        "source": "com.vidyavahini.app-main-64:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-debug-62:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.vidyavahini.app-main-64:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-debug-62:/layout_fragment_notifications.xml.flat",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-debug-62:/menu_menu_bottom.xml.flat",
+        "source": "com.vidyavahini.app-main-64:/menu/menu_bottom.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-debug-62:/navigation_nav_graph.xml.flat",
+        "source": "com.vidyavahini.app-main-64:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-debug-62:/drawable_ic_bus.xml.flat",
+        "source": "com.vidyavahini.app-main-64:/drawable/ic_bus.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-debug-62:/layout_fragment_settings.xml.flat",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-debug-62:/layout_fragment_signup.xml.flat",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_signup.xml"
+    }
+]

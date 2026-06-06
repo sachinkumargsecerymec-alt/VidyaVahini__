@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.vidyavahini.app-mergeDebugResources-61:/layout/fragment_tracking.xml",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_tracking.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-mergeDebugResources-61:/layout/fragment_profile.xml",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-mergeDebugResources-61:/layout/fragment_home.xml",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-mergeDebugResources-61:/layout/activity_main.xml",
+        "source": "com.vidyavahini.app-main-64:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-mergeDebugResources-61:/layout/fragment_settings.xml",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-mergeDebugResources-61:/layout/item_title_subtitle.xml",
+        "source": "com.vidyavahini.app-main-64:/layout/item_title_subtitle.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-mergeDebugResources-61:/layout/fragment_notifications.xml",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-mergeDebugResources-61:/layout/fragment_emergency.xml",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_emergency.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-mergeDebugResources-61:/layout/fragment_splash.xml",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-mergeDebugResources-61:/layout/fragment_login.xml",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-mergeDebugResources-61:/layout/fragment_signup.xml",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_signup.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-mergeDebugResources-61:/layout/fragment_assistant.xml",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_assistant.xml"
+    },
+    {
+        "merged": "com.vidyavahini.app-mergeDebugResources-61:/layout/fragment_routes.xml",
+        "source": "com.vidyavahini.app-main-64:/layout/fragment_routes.xml"
+    }
+]

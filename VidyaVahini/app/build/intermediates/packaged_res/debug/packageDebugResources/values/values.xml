@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="safe_blue">#176B87</color>
+    <color name="seed_green">#256D49</color>
+    <color name="warm_yellow">#F2B705</color>
+    <string name="app_name">Vidya Vahini</string>
+    <string name="default_web_client_id">vidya-vahini-demo</string>
+    <string name="gcm_defaultSenderId" translatable="false">123456789012</string>
+    <string name="google_api_key" translatable="false">demo-api-key-replace-in-firebase-console</string>
+    <string name="google_app_id" translatable="false">1:123456789012:android:demo1234567890</string>
+    <string name="google_crash_reporting_api_key" translatable="false">demo-api-key-replace-in-firebase-console</string>
+    <string name="google_storage_bucket" translatable="false">vidya-vahini-demo.appspot.com</string>
+    <string name="project_id" translatable="false">vidya-vahini-demo</string>
+    <style name="Theme.VidyaVahini" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/seed_green</item>
+        <item name="colorPrimaryVariant">#164B35</item>
+        <item name="colorSecondary">@color/warm_yellow</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="materialButtonStyle">@style/Widget.VidyaVahini.Button</item>
+    </style>
+    <style name="Widget.VidyaVahini.Button" parent="Widget.MaterialComponents.Button">
+        <item name="cornerRadius">8dp</item>
+    </style>
+</resources>

@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/homeFragment" android:icon="@drawable/ic_bus" android:title="Home" />
+    <item android:id="@+id/routeSelectionFragment" android:icon="@drawable/ic_bus" android:title="Routes" />
+    <item android:id="@+id/liveTrackingFragment" android:icon="@drawable/ic_bus" android:title="Track" />
+    <item android:id="@+id/assistantFragment" android:icon="@drawable/ic_bus" android:title="AI" />
+    <item android:id="@+id/profileFragment" android:icon="@drawable/ic_bus" android:title="Profile" />
+</menu>

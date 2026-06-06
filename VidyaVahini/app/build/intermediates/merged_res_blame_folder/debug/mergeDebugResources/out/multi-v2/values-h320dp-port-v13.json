@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.vidyavahini.app-mergeDebugResources-60:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\DELL\\.gradle\\caches\\9.2.1\\transforms\\9d09cef84c820c3e924ea1c9239cbd27\\workspace\\transformed\\material-1.12.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}
